@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/healthcareSocialNetwork/static/css/main.d1b05096.chunk.css",
+    "main.js": "/healthcareSocialNetwork/static/js/main.23f68bea.chunk.js",
+    "main.js.map": "/healthcareSocialNetwork/static/js/main.23f68bea.chunk.js.map",
+    "runtime-main.js": "/healthcareSocialNetwork/static/js/runtime-main.4a4cf586.js",
+    "runtime-main.js.map": "/healthcareSocialNetwork/static/js/runtime-main.4a4cf586.js.map",
+    "static/js/2.3b72b5a9.chunk.js": "/healthcareSocialNetwork/static/js/2.3b72b5a9.chunk.js",
+    "static/js/2.3b72b5a9.chunk.js.map": "/healthcareSocialNetwork/static/js/2.3b72b5a9.chunk.js.map",
+    "index.html": "/healthcareSocialNetwork/index.html",
+    "precache-manifest.99b52613fda6c9f4d1d0e6e44c28aacc.js": "/healthcareSocialNetwork/precache-manifest.99b52613fda6c9f4d1d0e6e44c28aacc.js",
+    "service-worker.js": "/healthcareSocialNetwork/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/healthcareSocialNetwork/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3b72b5a9.chunk.js.LICENSE": "/healthcareSocialNetwork/static/js/2.3b72b5a9.chunk.js.LICENSE",
+    "static/media/logo.svg": "/healthcareSocialNetwork/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a4cf586.js",
+    "static/js/2.3b72b5a9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.23f68bea.chunk.js"
+  ]
+}
